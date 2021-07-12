@@ -1,0 +1,30 @@
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-align: right;
+}
+
+.navbar {
+    background: rgb(237, 213, 216);
+    padding: 0, i !important;
+}
+
+.navbar-nav a {
+    font-weight: 600;
+    text-align: right;
+}
+
+.fa-bars {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.sponsori {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.multumire {
+    padding-top: 3%;
+}

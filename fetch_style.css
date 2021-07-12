@@ -1,0 +1,31 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}
+
+.felicitari {
+    text-align: center;
+    font-family: Lora, sans-serif;
+    padding: 5%;
+}
+
+.lista {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.deconectare {
+    padding: 5%;
+}

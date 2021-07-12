@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lora, sans-serif;
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-align: right;
+}
+
+.navbar {
+    background: rgb(237, 213, 216);
+    padding: 0, i !important;
+}
+
+.navbar-nav a {
+    font-weight: 600;
+    text-align: right;
+}
+
+.fa-bars {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+#banner {
+    background: rgb(212, 180, 192);
+    color: red;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    padding-top: 50%;
+}
+
+.admin {
+    padding: 10%;
+}

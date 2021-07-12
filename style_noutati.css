@@ -1,0 +1,45 @@
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-align: right;
+}
+
+.navbar {
+    background: rgb(237, 213, 216);
+    padding: 0, i !important;
+}
+
+.navbar-nav a {
+    font-weight: 600;
+    text-align: right;
+}
+
+.fa-bars {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.text {
+    text-align: center;
+    padding: 3%;
+}
+
+.inf {
+    padding: 2%;
+    text-align: center;
+}
+
+.imagine {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
